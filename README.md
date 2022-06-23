@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github]([https://your-solution-url.com](https://github.com/Lord-Nickelbottoms/Interactive-Rating-Component))
-- Live Site URL: [Vercel]([https://your-live-site-url.com](https://interactive-rating-component-khaki.vercel.app/))
+- Solution URL: [Github](https://github.com/Lord-Nickelbottoms/Interactive-Rating-Component)
+- Live Site URL: [Vercel](https://interactive-rating-component-khaki.vercel.app/)
 
 ## My process
 
